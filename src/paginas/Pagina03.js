@@ -6,7 +6,7 @@ function Pagina03() {
             <h1>Página 03</h1>
             <Link to="/">Início</Link>
             <br />
-            <a href="https://google.com" target="_blank">Google</a>
+            <a href="https://google.com" target="_blank" rel="noreferrer">Google</a>
         </div>
     );
 }
